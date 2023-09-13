@@ -92,7 +92,7 @@ class ChallengeOne{
 
 fun main() {
     val tinggi = 8
-    val Challengeone = Challengeone()
+    val Challengeone = ChallengeOne()
 
     println("Piramida Bintang:")
     Challengeone.cetakpiramidaBintang(tinggi)
