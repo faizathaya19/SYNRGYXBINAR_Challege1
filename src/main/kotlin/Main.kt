@@ -1,4 +1,4 @@
-class Challengeone{
+class ChallengeOne{
     fun cetakpiramidaBintang(tinggi: Int) {
         for (i in 1..tinggi) {
             for (j in 1..(tinggi - i)) {
