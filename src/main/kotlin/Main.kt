@@ -1,4 +1,4 @@
-class Challengeone{
+class ChallengeOne{
     fun cetakpiramidaBintang(tinggi: Int) {
         for (i in 1..tinggi) {
             for (j in 1..(tinggi - i)) {
@@ -92,7 +92,7 @@ class Challengeone{
 
 fun main() {
     val tinggi = 8
-    val Challengeone = Challengeone()
+    val Challengeone = ChallengeOne()
 
     println("Piramida Bintang:")
     Challengeone.cetakpiramidaBintang(tinggi)
