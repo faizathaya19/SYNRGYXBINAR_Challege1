@@ -108,4 +108,7 @@ fun main() {
 
     println("\nPiramida Hollow Bintang:")
     Challengeone.cetakpiramidahollowBintang(tinggi)
+
+    println("\nPiramida Hollow Bintang:")
+    Challengeone.cetakpiramidahollowBintang(tinggi)
 }
